@@ -12,7 +12,7 @@ tabs:
   # format: <filename_without_extension>: <value>
   home: UJobList
   categories: Categories
-  tags: Country
+  tags: Field
   archives: Timeline
   about: About
 
