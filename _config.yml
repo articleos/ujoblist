@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: UJobList # the main title
+title: University Jobs & Faculty Jobs - UJobList # the main title
 
-tagline: University Job List
+tagline: University Jobs & Faculty Jobs
 
 description: >- # used by seo meta and the atom feed
-  ArticleOS is a web application, developed to list Conference Announcements, University Presentations, and University Jobs.
+  University Jobs & Faculty Positions. Post or search faculty jobs. List Faculty Jobs. Business Schools Jobs.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
